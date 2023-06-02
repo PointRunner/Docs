@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" modified="2023-04-07T18:09:16.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="l6QIgIc6zHbzKwuRDm4c" version="21.1.5" type="device">
+  <diagram name="Page-1" id="r5pAS4oakJdVBfvGPNDa">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="350" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-1" target="dufns0oQ-sG4MkhOKw-y-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="210" />
+              <mxPoint x="140" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-1" target="dufns0oQ-sG4MkhOKw-y-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-1" target="dufns0oQ-sG4MkhOKw-y-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-1" value="Runner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-3" value="High-Level" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-4" target="dufns0oQ-sG4MkhOKw-y-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-4" value="&amp;lt;&amp;lt;service&amp;gt;&amp;gt;&lt;br&gt;League Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-5" target="dufns0oQ-sG4MkhOKw-y-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="280" />
+              <mxPoint x="660" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-5" target="dufns0oQ-sG4MkhOKw-y-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="280" />
+              <mxPoint x="650" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-5" value="&amp;lt;&amp;lt;service&amp;gt;&amp;gt; &lt;br&gt;Challenge Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-8" value="Track Run" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="365" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-1" target="dufns0oQ-sG4MkhOKw-y-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="210" />
+              <mxPoint x="140" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-11" value="View Leaderboard / League Position" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="255" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-17" value="&amp;lt;&amp;lt;affects&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-14" target="dufns0oQ-sG4MkhOKw-y-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-14" value="Start / End League Season" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-25" value="&amp;lt;&amp;lt;affects&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-16" target="dufns0oQ-sG4MkhOKw-y-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-16" value="Update User Rank / Metrics" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-18" target="dufns0oQ-sG4MkhOKw-y-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-18" target="dufns0oQ-sG4MkhOKw-y-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dufns0oQ-sG4MkhOKw-y-18" target="dufns0oQ-sG4MkhOKw-y-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="70" />
+              <mxPoint x="620" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-18" value="&amp;lt;&amp;lt;service&amp;gt;&amp;gt;&lt;br&gt;Run Summary Processor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-24" value="View Profile / Metrics" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-28" value="Duel&lt;br&gt;Other User" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-31" value="Add Achievments" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dufns0oQ-sG4MkhOKw-y-35" value="Create Weekly Challenge" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
